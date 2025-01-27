@@ -75,9 +75,6 @@ Solution using LU Decomposition:
 
 ## Error Handling
 - Raises errors for singular matrices or systems with no unique solutions.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+  
 ---
 Feel free to modify and expand the code for your specific use cases!
